@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+openai
+tweepy
+pytrends
+APScheduler
+pandas
+Pillow
+faiss-cpu
+tqdm
